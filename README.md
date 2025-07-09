@@ -80,4 +80,5 @@ I love collaborating on **high-performance solutions** and sharing knowledge. If
 
 ## 📊 GitHub Stats  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stexcore&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stexcore&theme=github)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=stexcore&theme=github)
